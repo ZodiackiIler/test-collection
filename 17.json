@@ -1,0 +1,16 @@
+{
+    "name": "RubeTON Card #17",
+    "description": "The RubeTON Card is your digital gateway to a world of privileges and innovation, crafted for true RubeTON enthusiasts.",
+    "image": "https://raw.githubusercontent.com/ZodiackiIler/test-collection/main/card.png",
+    "buttons": [
+        {
+            "label": "channel",
+            "uri": "https://t.me/rubeton"
+        },
+        {
+            "label": "chat",
+            "uri": "https://t.me/rubetonchat"
+        }
+    ],
+    "attributes": []
+}
