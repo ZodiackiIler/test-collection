@@ -1,7 +1,10 @@
 {
-   "image": "https://raw.githubusercontent.com/ZodiackiIler/test-collection/main/cnft_collection.png",
-   "name": "cNFT",
-   "description": "cNFT",
-   "social_links": [],
-   "marketplace": "getgems.io"
+  "name": "RubeTON Card",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/ZodiackiIler/test-collection/main/rubeton_collection.png",
+  "cover_image": "https://raw.githubusercontent.com/ZodiackiIler/test-collection/main/rubeton_collection_cover.png",
+  "social_links": [
+    "https://t.me/rubeton",
+     "https://t.me/rubetonchat"
+  ]
 }
